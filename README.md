@@ -1,22 +1,23 @@
 # 📝 MERN Stack To-Do App with Authentication
 
-This is a full-stack To-Do application built using the MERN stack (MongoDB, Express, React, Node.js) with user authentication, priority-based tasks, status tracking, and filtering features.
+This is a full-stack **To-Do application** built using the **MERN stack (MongoDB, Express, React, Node.js)** with user **authentication**, **priority-based tasks**, **status tracking**, and **filtering features**.
 
-> Live Demo: [Click here](https://to-do-frontend-five-opal.vercel.app/login)  
-> Backend API: [Click here](https://to-do-backend-fyse.onrender.com/)
+> Live Demo: [Click here](https://your-vercel-or-netlify-link.vercel.app)  
+> Backend API: [Click here](https://your-backend.onrender.com)
 
+---
 
 ## 🚀 Features
 
-- 🔐 User Authentication: (Signup, Login with JWT)
-- ✅ Create, Read, Update, Delete (CRUD) tasks
-- 🏷️ Set Priority (Low, Medium, High)
-- 📌 Mark Status (Pending or Completed)
-- 🔍 Filter tasks by Status or Priority
-- ⚙️ Responsive UI with TailwindCSS
-- ☁️ Hosted on Vercel (Frontend) and Render (Backend)
+- 🔐 **User Authentication** (Signup, Login with JWT)
+- ✅ **Create, Read, Update, Delete (CRUD)** tasks
+- 🏷️ **Set Priority** (Low, Medium, High)
+- 📌 **Mark Status** (Pending or Completed)
+- 🔍 **Filter tasks** by Status or Priority
+- ⚙️ **Responsive UI** with TailwindCSS
+- ☁️ **Hosted on Vercel (Frontend)** and **Render (Backend)**
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -28,5 +29,7 @@ This is a full-stack To-Do application built using the MERN stack (MongoDB, Expr
 | Auth        | JSON Web Tokens (JWT)            |
 | Deployment  | Vercel (frontend), Render (backend) |
 
+---
 
+## 📦 Folder Structure
 
